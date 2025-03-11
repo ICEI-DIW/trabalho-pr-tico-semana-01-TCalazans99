@@ -7,7 +7,8 @@ Nome: Tiago Calazans Cruz
 Matricula: 879125
 
 ## Tela de inspeção com navegador
-
+![tela inspeção](02F12.pgn) 
 
 ## Tela de projeto no Replit
 
+![tela hello world](01HW.png)
